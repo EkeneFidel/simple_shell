@@ -19,9 +19,9 @@ int main(void)
 		printf("$ ");
 		read = getline(&buffer, &len, stdin);
 		if (read != EOF)
-		{
 			printf("%s", buffer);
-		}
+		else
+			break;
 	}
 	return (0);
 }
