@@ -1,2 +1,4 @@
-C - Simple Shell
-Mukhtar Abdulrazaq, Ekene Chukwurah
+## Simple Shell Project
+
+- Mukhtar Abdulrazaq
+- Ekene Chukwurah
